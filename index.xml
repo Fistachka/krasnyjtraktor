@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>krasnyjtraktor</repo>
-  <version>v1.0.4</version>
+  <version>v1.0.5</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>1be9e5a94ef61f555537b1cb231aa276c99338c3b92ddd43fe1a740cafbd525c</ru>
@@ -198,7 +198,7 @@
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>10</tonalities>
-    <video name="sinijtraktor_.mp4" size="474278" type="video/mp4">8da58c9876dde6e588c8f8b665f24269b9b794245a3e5ece50d6dfa855f95e90</video>
+    <video name="13.2.mp4" size="1400354" type="video/mp4">99d9a67ddfc40648be9674d7445b16ecf80211c858e476ddfd3a92f0dbae9d28</video>
     <notes>
       <note number="1" values="18" ticks="434" durationTicks="17" ppq="96" velocity="0.843"/>
       <note number="2" values="18" ticks="458" durationTicks="17" ppq="96" velocity="0.913"/>
