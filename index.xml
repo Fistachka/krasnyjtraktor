@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>krasnyjtraktor</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="v-lesu-rodilas-elochka"/>
   <readme>
     <ru>1be9e5a94ef61f555537b1cb231aa276c99338c3b92ddd43fe1a740cafbd525c</ru>
@@ -144,8 +144,6 @@
       <note number="3" values="1" ticks="303" durationTicks="65" ppq="192" velocity="0.945"/>
       <note number="4" values="1" ticks="402" durationTicks="78" ppq="192" velocity="0.953"/>
       <note number="5" values="5" ticks="494" durationTicks="50" ppq="192" velocity="0.937"/>
-      <note number="6" values="5" ticks="587" durationTicks="55" ppq="192" velocity="0.945"/>
-      <note number="7" values="5" ticks="685" durationTicks="138" ppq="192" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="10">
@@ -161,6 +159,7 @@
       <note number="4" values="1" ticks="168" durationTicks="38" ppq="96" velocity="0.921"/>
       <note number="5" values="5" ticks="217" durationTicks="74" ppq="96" velocity="0.921"/>
       <note number="6" values="5" ticks="312" durationTicks="95" ppq="96" velocity="0.921"/>
+      <note number="7" values="5" ticks="576" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="11">
@@ -175,8 +174,6 @@
       <note number="3" values="1" ticks="88" durationTicks="32" ppq="96" velocity="0.874"/>
       <note number="4" values="1" ticks="139" durationTicks="33" ppq="96" velocity="0.921"/>
       <note number="5" values="5" ticks="189" durationTicks="33" ppq="96" velocity="0.921"/>
-      <note number="6" values="5" ticks="236" durationTicks="34" ppq="96" velocity="0.921"/>
-      <note number="7" values="5" ticks="284" durationTicks="128" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="12">
@@ -191,6 +188,7 @@
       <note number="3" values="5" ticks="120" durationTicks="45" ppq="96" velocity="0.874"/>
       <note number="4" values="6" ticks="167" durationTicks="46" ppq="96" velocity="0.921"/>
       <note number="5" values="5" ticks="217" durationTicks="337" ppq="96" velocity="0.921"/>
+      <note number="6" values="5" ticks="480" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="13">
@@ -206,9 +204,6 @@
       <note number="4" values="18" ticks="505" durationTicks="22" ppq="96" velocity="0.921"/>
       <note number="5" values="7" ticks="527" durationTicks="25" ppq="96" velocity="0.921"/>
       <note number="6" values="7" ticks="553" durationTicks="22" ppq="96" velocity="0.921"/>
-      <note number="7" values="7" ticks="577" durationTicks="22" ppq="96" velocity="0.921"/>
-      <note number="8" values="7" ticks="601" durationTicks="21" ppq="96" velocity="0.921"/>
-      <note number="9" values="18" ticks="624" durationTicks="95" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
 </level>
